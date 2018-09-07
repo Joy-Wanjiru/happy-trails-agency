@@ -1,0 +1,18 @@
+h1 {
+  color: silver;
+}
+.para{
+  color: brown;
+  font-family: cursive;
+}
+h2 {
+  color: rgb(255,255,255);
+  font-size: 24px;
+}
+.green {
+  color: green;
+}
+.brown {
+  font-style: italic;
+  color: darkblack;
+}
